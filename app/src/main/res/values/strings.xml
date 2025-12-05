@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">易学车助手</string>
+    <string name="accessibility_service_description">自动点击易学车应用中的“开始学习”和“切换播放”按钮。</string>
+</resources>
